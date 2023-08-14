@@ -15,12 +15,17 @@ namespace curd_employee.Controllers
     {
       _ctx = ctx;
     }
+
+
+    //Display the data from database
     [HttpGet]
     public async Task <IActionResult> Index()
     {
       var employess = await _ctx.Employees.ToListAsync();
       return View(employess);
     }
+
+    //UPdated Database View 
     [HttpGet]
     public async Task <IActionResult> View(Guid id)
     {
@@ -40,6 +45,7 @@ namespace curd_employee.Controllers
 
       return RedirectToAction("Index");
     }
+    //Update database from postMethod
     [HttpPost]
     public async Task<IActionResult> View(UpdateEmployeeViewModel model)
     {
@@ -56,12 +62,14 @@ namespace curd_employee.Controllers
 
     }
 
-
+    // View page of Database form
     [HttpGet]
     public IActionResult Add()
     {
       return View();
     }
+
+    //For the post from form
 
     [HttpPost]
     public async Task<IActionResult> Add(EmployeeViewModel addEmployee)
@@ -77,6 +85,9 @@ namespace curd_employee.Controllers
       await _ctx.SaveChangesAsync();
       return RedirectToAction("Index");
     }
+
+
+    //Delete Data from database
     [HttpPost]
     public async Task <IActionResult> Delete(UpdateEmployeeViewModel model)
     {
