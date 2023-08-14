@@ -1,0 +1,60 @@
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\appsettings.Development.json
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\appsettings.json
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\curd employee.staticwebassets.runtime.json
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\curd employee.exe
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\curd employee.deps.json
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\curd employee.runtimeconfig.json
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\curd employee.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\curd employee.pdb
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\Humanizer.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\sujan\new plular projects\curd employee\curd employee\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\sujan\new plular projects\curd employee\curd employee\obj\Debug\net6.0\curd employee.csproj.AssemblyReference.cache
+D:\sujan\new plular projects\curd employee\curd employee\obj\Debug\net6.0\curd employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\sujan\new plular projects\curd employee\curd employee\obj\Debug\net6.0\curd employee.AssemblyInfoInputs.cache
+D:\sujan\new plular projects\curd employee\curd employee\obj\Debug\net6.0\curd employee.AssemblyInfo.cs
+D:\sujan\new plular projects\curd employee\curd employee\obj\Debug\net6.0\curd employee.csproj.CoreCompileInputs.cache
+D:\sujan\new plular projects\curd employee\curd employee\obj\Debug\net6.0\curd employee.MvcApplicationPartsAssemblyInfo.cache
+D:\sujan\new plular projects\curd employee\curd employee\obj\Debug\net6.0\curd employee.RazorAssemblyInfo.cache
+D:\sujan\new plular projects\curd employee\curd employee\obj\Debug\net6.0\curd employee.RazorAssemblyInfo.cs
+D:\sujan\new plular projects\curd employee\curd employee\obj\Debug\net6.0\staticwebassets.build.json
+D:\sujan\new plular projects\curd employee\curd employee\obj\Debug\net6.0\staticwebassets.development.json
+D:\sujan\new plular projects\curd employee\curd employee\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\sujan\new plular projects\curd employee\curd employee\obj\Debug\net6.0\scopedcss\bundle\curd employee.styles.css
+D:\sujan\new plular projects\curd employee\curd employee\obj\Debug\net6.0\scopedcss\projectbundle\curd employee.bundle.scp.css
+D:\sujan\new plular projects\curd employee\curd employee\obj\Debug\net6.0\curd employee.csproj.CopyComplete
+D:\sujan\new plular projects\curd employee\curd employee\obj\Debug\net6.0\curd employee.dll
+D:\sujan\new plular projects\curd employee\curd employee\obj\Debug\net6.0\refint\curd employee.dll
+D:\sujan\new plular projects\curd employee\curd employee\obj\Debug\net6.0\curd employee.pdb
+D:\sujan\new plular projects\curd employee\curd employee\obj\Debug\net6.0\curd employee.genruntimeconfig.cache
+D:\sujan\new plular projects\curd employee\curd employee\obj\Debug\net6.0\ref\curd employee.dll

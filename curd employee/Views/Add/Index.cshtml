@@ -1,0 +1,32 @@
+@model List<curd_employee.Models.Employee>
+
+<table class="table">
+   <thead>
+      <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Phone</th>
+      </tr>
+    </thead>
+    <tbody>
+      @foreach(var employee in Model)
+        {
+            <tr>
+              <td>@employee.Id</td>
+              <td>@employee.Name</td>
+              <td>@employee.Email</td>
+              <td>@employee.Phone</td>
+              <td><a class="btn btn-warning" href="Add/View/@employee.Id">Update</a></td>
+              <td><button type="submit" class="btn btn-danger" asp-action="Delete" asp-controller="Add">Delete</button></td>
+
+             
+            
+             
+            
+            </tr>
+        }
+    </tbody>
+  </table>
+   <a class="btn btn-primary" asp-area="" asp-controller="Add" asp-action="Add">Add Data</a>
+
